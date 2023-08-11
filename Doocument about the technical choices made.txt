@@ -1,0 +1,5 @@
+->I have designed a Recipe website.
+-> In this website I have used Font Awesome for Icons and Google Fonts for Fonts.
+->The recipe data (Meal API) is fetched from the 'The MealDB' website.
+->We can search the Recipes by typing the Recipe Name(ex.cake, pizza) or primary ingredient(ex.beef, chicken,egg) in the search bar.
+-> Once the recipes are listed out you can get the recipe instruction by clicking on the get recipe button.
